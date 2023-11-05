@@ -1,0 +1,2 @@
+model_checkpoint_path: "some_dir"
+all_model_checkpoint_paths: "some_dir"
